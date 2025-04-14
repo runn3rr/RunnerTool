@@ -69,7 +69,7 @@ async def menu():
         
 
 def main():
-    title(" RunnerTool v1.0 ^| github.com/runnn3rr/RunnerTool ")
+    title(" RunnerTool v1.0 ^| github.com/runn3rr/RunnerTool ")
     asyncio.run(menu())
 
 if __name__ == "__main__":
